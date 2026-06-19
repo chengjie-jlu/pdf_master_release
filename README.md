@@ -9,41 +9,41 @@ Latest release: https://github.com/chengjie-jlu/pdf_master_release/releases/late
 ### Debian / Ubuntu amd64
 
 ```sh
-curl -L -o "pdf-master_0.1.0+10_amd64.deb" "https://github.com/chengjie-jlu/pdf_master_release/releases/download/v0.1.0%2B10/pdf-master_0.1.0%2B10_amd64.deb"
-sudo apt install "./pdf-master_0.1.0+10_amd64.deb"
+curl -L -o "pdf-master_0.1.1+11_amd64.deb" "https://github.com/chengjie-jlu/pdf_master_release/releases/download/v0.1.1%2B11/pdf-master_0.1.1%2B11_amd64.deb"
+sudo apt install "./pdf-master_0.1.1+11_amd64.deb"
 ```
 
 SHA256:
 
 ```
-e80c166e51553b9766e5adf832031f2b8c45ae9e545714e632f72cbaa705552b  pdf-master_0.1.0+10_amd64.deb
+c2ffd182b8dae5c0eecfd2de60dc79e340c66e2ae508e729d2b0f72f81743f49  pdf-master_0.1.1+11_amd64.deb
 ```
 
 ### Debian / Ubuntu arm64
 
 ```sh
-curl -L -o "pdf-master_0.1.0+10_arm64.deb" "https://github.com/chengjie-jlu/pdf_master_release/releases/download/v0.1.0%2B10/pdf-master_0.1.0%2B10_arm64.deb"
-sudo apt install "./pdf-master_0.1.0+10_arm64.deb"
+curl -L -o "pdf-master_0.1.1+11_arm64.deb" "https://github.com/chengjie-jlu/pdf_master_release/releases/download/v0.1.1%2B11/pdf-master_0.1.1%2B11_arm64.deb"
+sudo apt install "./pdf-master_0.1.1+11_arm64.deb"
 ```
 
 SHA256:
 
 ```
-995b9f4085d0d7bdc8a3266692d87284a411b98f200516d7a97081be8340c90d  pdf-master_0.1.0+10_arm64.deb
+0530813906a1c441fcdaf4013b89820336176c9a9d9713969d52a83d2fe9e521  pdf-master_0.1.1+11_arm64.deb
 ```
 
 ## Android
 
 Download the APK for your device from the latest release:
 
-- arm64-v8a: https://github.com/chengjie-jlu/pdf_master_release/releases/download/v0.1.0%2B10/app-arm64-v8a-release.apk
-- armeabi-v7a: https://github.com/chengjie-jlu/pdf_master_release/releases/download/v0.1.0%2B10/app-armeabi-v7a-release.apk
-- x86_64: https://github.com/chengjie-jlu/pdf_master_release/releases/download/v0.1.0%2B10/app-x86_64-release.apk
+- arm64-v8a: https://github.com/chengjie-jlu/pdf_master_release/releases/download/v0.1.1%2B11/app-arm64-v8a-release.apk
+- armeabi-v7a: https://github.com/chengjie-jlu/pdf_master_release/releases/download/v0.1.1%2B11/app-armeabi-v7a-release.apk
+- x86_64: https://github.com/chengjie-jlu/pdf_master_release/releases/download/v0.1.1%2B11/app-x86_64-release.apk
 
 SHA256:
 
 ```
-1d8356c33901735191f28b5b92da6fbac024f37daa4b732f9c4af12ce827c1e4  app-arm64-v8a-release.apk
-81ea0c970fedf15c323b2a80a555228d77e702f4891a282bc3d82369aceaf89d  app-armeabi-v7a-release.apk
-d5661ccd7a84555fb7ba3196e0e5e42f211790bb6d9b1c9adeb41fae27c66296  app-x86_64-release.apk
+c97189801388331540c08b6daa0c535f9383b83ec2ac57b505151feed8259a13  app-arm64-v8a-release.apk
+a0c69adf26a28e50ec8b7ae4e1d1f123a4c6c09bed15e7129e8c75b73d82dac7  app-armeabi-v7a-release.apk
+c2e0729789a17b1cadc78b6b9f1eea66145bb6a492f07c1969d92258707c1d57  app-x86_64-release.apk
 ```
